@@ -1,0 +1,15 @@
+name: stenv
+channels:
+  - conda-forge
+  - pkgs/main
+dependencies:
+  - ipykernel
+  - matplotlib
+  - plotly
+  - polars
+  - rich
+  - seaborn
+  - streamlit
+  - tqdm
+
+prefix: "/Users/apple/miniforge3/envs/stenv"
